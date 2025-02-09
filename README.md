@@ -1,39 +1,82 @@
-# Computer Engineer
+# Sean Stafford
+**Computer Engineer**
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Skills
+
+**Programming Languages:** C, C++, Java, Verilog HDL, MATLAB, Python  
+**Software:** Revit, AutoCAD, Inventor, Trace700, LTSpice, Visual Studio, Eclipse, Word, Excel, Arduino IDE  
+
+---
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+
+**Virginia Polytechnic and State University**  
+Expected Graduation Year: 2026  
+Major: Computer Engineering, Minors: Mathematics and Computer Science  
+GPA: 3.96
+
+**Tidewater Community College**  
+Associate of Science, Summa Cum Laude, May 2023  
+Major: Engineering, GPA: 4.0
+
+---
+
+## Honors and Awards
+
+- Virginia Tech President’s List (December 2023)  
+- Virginia Tech Honors College (August 2023)  
+- Eagle Scout (May 2021)
+
+---
+
+## Extra-Curricular Involvement
+
+- **VT AutoDrive** (2024-present)  
+  - Member, Perception Team (Simultaneous Localization and Mapping challenge)  
+  - Designing a self-driving Chevy Bolt using machine learning.
+
+- **Virginia Tech Honors College** (2023-present)  
+  - Completed coursework and supplemental projects related to interdisciplinary collaboration.
+
+- **Virginia Tech Mixed Martial Arts Club** (2023-present)
+
+- **Tennis** (2022-present)  
+  - Ocean Lakes Varsity Tennis  
+  - Virginia Tech Intramural Tennis Team League
+
+---
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- **DroneUp** (June 2024 - July 2024)  
+  - Acted as a project manager, creating a comprehensive project scope document, authoring flight-testing schedules, and managing day-to-day flight tests, including daily reports to leadership.  
+  - Resulted in 27 flights, adding 8 hours to the validation of the primary delivery drone.  
+
+- **PACE Collaborative** (June 2022 - August 2023)  
+  - Worked on drafting (REVIT/AutoCAD), load calculations (TRACE700), participating in fieldwork, and equipment specifications.
+
+- **City of Virginia Beach Public Utilities, Operations Division** (July 2021 – September 2021)  
+  - Visited sites, attended meetings, discussed projects with engineers, and performed administrative tasks.  
+  - Analyzed data to improve cost efficiency related to pump flow meter requirements.
+
+---
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- **Home Audio System, Team Research and Design Project** – 100+ Hours  
+  - Researched, designed, and constructed a graphic equalizer, class D amplifier, and Arduino spectrogram using LTSpice, Arduino Uno, and TI Filter Design Tool.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- **Creation of Harvard Architecture CPU, Design Project** – 100+ Hours  
+  - Used Verilog HDL to create modules for a Harvard Architecture CPU.  
+  - Debugged and programmed the CPU using assembly language to process, modify, and store data.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+---
 
 ## Contact
+
 You can reach me at my email: [sean.stafford.03@gmail.com](mailto:sean.stafford.03@gmail.com)
 
 Also, feel free to connect with me on:
+
 - [LinkedIn](https://www.linkedin.com/in/sean-stafford-a584b52b6/)
 - [GitHub](https://github.com/seanstafford0)

@@ -1,5 +1,11 @@
 title: Sean Stafford
 logo: /assets/img/seanportrait.jpg
-# description: text below image
-# show_downloads: true
+description: Student at Virginia Tech
+show_downloads: false
 theme: jekyll-theme-minimal
+icon: favicon-VT.ico
+
+social:
+  email: "sean.stafford.03@gmail.com"  # Update with your email
+  linkedin: "https://www.linkedin.com/in/sean-stafford-a584b52b6/"  # Your LinkedIn URL
+  github: "https://github.com/seanstafford0"  # Your GitHub URL

@@ -1,82 +1,88 @@
-# Sean Stafford
-**Computer Engineer**
+# Sean Stafford  
+**Computer Engineer | Seeking Summer 2026 Internship**  
 
-## Skills
-
-**Programming Languages:** C, C++, Java, Verilog HDL, MATLAB, Python  
-**Software:** Revit, AutoCAD, Inventor, Trace700, LTSpice, Visual Studio, Eclipse, Word, Excel, Arduino IDE  
+2569 Seaboard Road * Virginia Beach, Virginia 23456 * [sean.stafford.03@gmail.com](mailto:sean.stafford.03@gmail.com) * (757) 837-5789  
 
 ---
 
 ## Education
 
-**Virginia Polytechnic and State University**  
-Expected Graduation Year: 2026  
-Major: Computer Engineering, Minors: Mathematics and Computer Science  
-GPA: 3.96
+**Virginia Polytechnic and State University** – Expected Graduation Year: 2026  
+Major: Computer Engineering, Minors: Mathematics and Computer Science, GPA: 3.97  
+Participating in 4+1 Accelerated Master’s Program, planning to complete M.S. in Computer Engineering in 2027  
 
-**Tidewater Community College**  
-Associate of Science, Summa Cum Laude, May 2023  
-Major: Engineering, GPA: 4.0
+**Tidewater Community College** – Associate of Science, Summa Cum Laude, May 2023  
+Major: Engineering, GPA: 4.0  
+
+---
+
+## Skills
+
+**Programming Languages:** C, C++, Java, JavaScript, Verilog HDL, MATLAB, Python  
+**Software:** TestComplete 14, Visual Studio, VSCode, Eclipse, IntelliJ, Arduino IDE, LTSpice, Word, Excel  
 
 ---
 
 ## Honors and Awards
 
-- Virginia Tech President’s List (December 2023)  
+- Virginia Tech President’s List (Fall 2023, Fall 2024, Spring 2025)  
 - Virginia Tech Honors College (August 2023)  
-- Eagle Scout (May 2021)
+- Eagle Scout (May 2021)  
 
 ---
 
 ## Extra-Curricular Involvement
 
-- **VT AutoDrive** (2024-present)  
-  - Member, Perception Team (Simultaneous Localization and Mapping challenge)  
-  - Designing a self-driving Chevy Bolt using machine learning.
+- **VT AutoDrive Challenge – GM/SAE Sponsored** (2024-present)  
+  - Localization Subteam Lead – leading development for the Localization Challenge  
+  - Developing autonomous driving software for a Chevy Bolt using modern hardware including Cepton LiDAR, Intel server architecture, and ZED X stereo cameras  
 
 - **Virginia Tech Honors College** (2023-present)  
-  - Completed coursework and supplemental projects related to interdisciplinary collaboration.
+  - Completed coursework and supplemental projects related to interdisciplinary collaboration  
 
-- **Virginia Tech Mixed Martial Arts Club** (2023-present)
+- **Virginia Tech Mixed Martial Arts Club** (2023-present)  
 
-- **Tennis** (2022-present)  
-  - Ocean Lakes Varsity Tennis  
-  - Virginia Tech Intramural Tennis Team League
+- **Virginia Tech Intramural Tennis Team League** (2023-present)  
+
+- **Epsilon Sigma Alpha** (2025-present)  
+  - Service and philanthropy fraternity, participating in community service initiatives  
 
 ---
 
 ## Work Experience
 
-- **DroneUp** (June 2024 - July 2024)  
-  - Acted as a project manager, creating a comprehensive project scope document, authoring flight-testing schedules, and managing day-to-day flight tests, including daily reports to leadership.  
-  - Resulted in 27 flights, adding 8 hours to the validation of the primary delivery drone.  
+- **L3Harris Technologies – Software Engineering Intern** (Jun 2025–Aug 2025)  
+  - Created automated test scripts in JavaScript and SQL for the Symphony Console, a system used by dispatchers to control radios for first responders  
+  - Enhanced a legacy test-generation tool and participated in Agile development practices, gaining experience with sprint-based workflows, daily standups, and cross-team collaboration in a large-scale software environment  
 
-- **PACE Collaborative** (June 2022 - August 2023)  
-  - Worked on drafting (REVIT/AutoCAD), load calculations (TRACE700), participating in fieldwork, and equipment specifications.
+- **DroneUp – Operations Intern** (Jun 2024–Jul 2024)  
+  - Created a comprehensive project scope document, authored a flight-testing schedule, and managed day-to-day flight tests, including daily reports to leadership  
 
-- **City of Virginia Beach Public Utilities, Operations Division** (July 2021 – September 2021)  
-  - Visited sites, attended meetings, discussed projects with engineers, and performed administrative tasks.  
-  - Analyzed data to improve cost efficiency related to pump flow meter requirements.
+- **PACE Collaborative – Engineering Intern** (Jun 2022–Aug 2023)  
+  - Drafted in Revit and AutoCAD, performed load calculations (TRACE700), participated in fieldwork, and specified equipment  
 
 ---
 
 ## Projects
 
-- **Home Audio System, Team Research and Design Project** – 100+ Hours  
-  - Researched, designed, and constructed a graphic equalizer, class D amplifier, and Arduino spectrogram using LTSpice, Arduino Uno, and TI Filter Design Tool.
+- **AI for Emergency Power Management – Senior Design Project**  
+  - Developing a machine learning–based system to predict power usage patterns during natural disasters and optimize power grid responses for stability and resilience  
+  - Analyzing historical data and real-time inputs to forecast demand surges, predict outages, and allocate resources efficiently  
 
-- **Creation of Harvard Architecture CPU, Design Project** – 100+ Hours  
-  - Used Verilog HDL to create modules for a Harvard Architecture CPU.  
-  - Debugged and programmed the CPU using assembly language to process, modify, and store data.
+- **Home Audio System – Team Research and Design Project** – 100+ Hours  
+  - Researched, designed, and constructed a graphic equalizer, class D amplifier, and Arduino spectrogram using LTSpice, Arduino Uno, and TI Filter Design Tool  
+
+- **Creation of Harvard Architecture CPU – Design Project** – 100+ Hours  
+  - Used Verilog HDL to create modules for a Harvard Architecture CPU  
+  - Debugged and programmed the CPU using assembly language to process, modify, and store data  
 
 ---
 
 ## Contact
 
-You can reach me at my email: [sean.stafford.03@gmail.com](mailto:sean.stafford.03@gmail.com)
+You can reach me at my email: [sean.stafford.03@gmail.com](mailto:sean.stafford.03@gmail.com)  
 
-Also, feel free to connect with me on:
+Also, feel free to connect with me on:  
 
-- [LinkedIn](https://www.linkedin.com/in/sean-stafford-a584b52b6/)
+- [LinkedIn](https://www.linkedin.com/in/sean-stafford-a584b52b6/)  
 - [GitHub](https://github.com/seanstafford0)

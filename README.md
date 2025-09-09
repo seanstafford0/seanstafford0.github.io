@@ -1,8 +1,6 @@
 # Sean Stafford  
 **Computer Engineer | Seeking Summer 2026 Internship**  
 
-2569 Seaboard Road * Virginia Beach, Virginia 23456 * [sean.stafford.03@gmail.com](mailto:sean.stafford.03@gmail.com) * (757) 837-5789  
-
 ---
 
 ## Education
@@ -69,12 +67,6 @@ Major: Engineering, GPA: 4.0
   - Developing a machine learning–based system to predict power usage patterns during natural disasters and optimize power grid responses for stability and resilience  
   - Analyzing historical data and real-time inputs to forecast demand surges, predict outages, and allocate resources efficiently  
 
-- **Home Audio System – Team Research and Design Project** – 100+ Hours  
-  - Researched, designed, and constructed a graphic equalizer, class D amplifier, and Arduino spectrogram using LTSpice, Arduino Uno, and TI Filter Design Tool  
-
-- **Creation of Harvard Architecture CPU – Design Project** – 100+ Hours  
-  - Used Verilog HDL to create modules for a Harvard Architecture CPU  
-  - Debugged and programmed the CPU using assembly language to process, modify, and store data  
 
 ---
 
